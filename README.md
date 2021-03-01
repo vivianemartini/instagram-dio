@@ -7,4 +7,4 @@ Os requisitos foram:
 HTML<br>
 CSS<br>
 
-As telas foram feitas especialmentes para esse projeto.
+As telas foram feitas especialmente para esse projeto.
