@@ -4,4 +4,9 @@ Projeto criado em aula da Digital Inovation One, que tem como desafio reconstrui
 
 As telas foram feitas especialmente para esse projeto.
 
-![WandaIG](https://github.com/vivianemartini/instagram-dio/blob/main/DIO%20-Instagram/img/celular.png)
+
+![](https://github.com/vivianemartini/instagram-dio/blob/main/DIO%20-Instagram/img/celular.png)
+
+![IG-clone](https://github.com/vivianemartini/instagram-dio/blob/main/DIO%20-Instagram/instagram-clone.JPG)
+
+![IG-clone2](https://github.com/vivianemartini/instagram-dio/blob/main/instagram-clone2.JPG)
