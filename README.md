@@ -8,3 +8,5 @@ HTML<br>
 CSS<br>
 
 As telas foram feitas especialmente para esse projeto.
+
+![WandaIG](https://github.com/vivianemartini/instagram-dio/blob/main/DIO%20-Instagram/img/celular.png)
